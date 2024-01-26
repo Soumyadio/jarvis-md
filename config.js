@@ -31,7 +31,7 @@ module.exports = {
   GOODBYE_MSG: process.env.GOODBYE_MSG || 'Hi @user It was Nice Seeing you',
   AUTHOR: process.env.AUTHOR || 'Soumyadip;Bot',
   MEDIA_DATA: process.env.MEDIA_DATA|| 'ʟɪꜱᴛ ᴍᴇɴᴜ;SOUMYADIP;https://i.imgur.com/cFKDcEN.jpeg',
-  SUDO: process.env.SUDO || '917025673121,',
+  SUDO: process.env.SUDO || '919382400759,',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || '',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
   BOT_INFO: process.env.BOT_INFO || 'Soumyadip;Bot;https://i.imgur.com/cFKDcEN.jpeg',
